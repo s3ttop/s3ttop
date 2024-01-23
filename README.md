@@ -12,6 +12,6 @@
 </div>
 <p align="center" dir="auto">
   <a href="https://skillicons.dev" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/d9d84b2f4ca7b70515a457f3f5ab67f46125d4f2efe0be0c950cdf3e76c0c3ce/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626173682c646f636b65722c6e6f64656a732c6a732c6c696e75782c6b756265726e657465732c7068702c706f7765727368656c6c" data-canonical-src="https://skillicons.dev/icons?i=bash,docker,nodejs,js,linux,kubernetes,php,powershell" style="max-width: 100%;">
+    <img src="https://camo.githubusercontent.com/d9d84b2f4ca7b70515a457f3f5ab67f46125d4f2efe0be0c950cdf3e76c0c3ce/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626173682c646f636b65722c6e6f64656a732c6a732c6c696e75782c6b756265726e657465732c7068702c706f7765727368656c6c" data-canonical-src="https://skillicons.dev/icons?i=bash,docker,nodejs,js,linux,php" style="max-width: 100%;">
   </a>
 </p>
